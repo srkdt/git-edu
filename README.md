@@ -1,2 +1,2 @@
-Git's guet?
+Wir testen Git
 # Git Tutorial
