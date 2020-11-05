@@ -1,3 +1,4 @@
 ### INTELLIJ IDEA ###
 .idea
 .iml
+*.ipr
